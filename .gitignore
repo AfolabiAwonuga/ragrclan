@@ -1,0 +1,10 @@
+Pip*
+.env
+*.py
+autogen_config.json
+__pycache__
+.cache
+coding
+chroma
+test.ann
+MLOps.pdf
